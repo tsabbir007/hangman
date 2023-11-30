@@ -1,5 +1,12 @@
+<h1 align="center">Hi 👋, I'm Sabbir Ahmed Talukdar</h1>
+
+- ID: 222-115-100
+- CSE-57-C
+- Metropolitan University, Sylhet
+
 # Welcome to Hangman! :pirate_flag:
 This console-based Hangman game allows you to guess a word letter by letter. Try to guess the word before the hangman is fully drawn!
+**_(codeblocks is more preferable)_**
 
 ## Instructions:
 ### Game Start:
@@ -58,3 +65,5 @@ Press capital 'C' to continue playing or any other key to exit.
 #### Have fun playing Hangman! :tada:
 
 Feel free to modify the code, add more words to the list, or enhance the game features as you see fit. Enjoy guessing words!
+
+
