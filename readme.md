@@ -16,7 +16,7 @@ The game will welcome you and automatically start a new round.
      |
 ========
 ```
-![initial display](<Screenshot from 2023-11-30 16-06-11.png>)
+![initial display](<screenshot/Screenshot from 2023-11-30 16-06-11.png>)
 
 You will see a representation of the hangman, the current state of the word you're trying to guess, and the number of chances left. **_(initially you have total 6 chances)_**
 ### Guessing:
@@ -24,25 +24,25 @@ You will see a representation of the hangman, the current state of the word you'
 Enter a letter as your guess and press Enter.
 If the letter is in the word, it will be revealed in the word. Otherwise, a part of the hangman will be drawn.
 
-![Alt text](<Screenshot from 2023-11-30 16-08-31.png>)
+![Alt text](<screenshot/Screenshot from 2023-11-30 16-08-31.png>)
 
 ### Winning:
 
 Keep guessing until you either correctly guess the entire word or run out of chances.
 If you correctly guess the word, you win the round.
 
-![Alt text](<Screenshot from 2023-11-30 16-11-42.png>)
+![Alt text](<screenshot/Screenshot from 2023-11-30 16-11-42.png>)
 
 ### Losing:
 If the hangman is fully drawn before you guess the word, you lose the round.
 
-![Alt text](<Screenshot from 2023-11-30 16-12-57.png>)
+![Alt text](<screenshot/Screenshot from 2023-11-30 16-12-57.png>)
 
 ### End of Round:
 At the end of each round, you will be informed whether you won or lost.
 Press capital 'C' to continue playing or any other key to exit.
 
-![Alt text](<Screenshot from 2023-11-30 16-14-14.png>)
+![Alt text](<screenshot/Screenshot from 2023-11-30 16-14-14.png>)
 
 ### Game Features:
 1. The game randomly selects a word from a predefined list.
